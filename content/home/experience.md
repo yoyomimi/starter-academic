@@ -48,19 +48,6 @@ experience:
         * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.   
 
   - title: Research Intern
-      company: Sensetime and Beihang University
-      company_url: ''
-      location: Beijing, China
-      date_start: '2020-07-01'
-      date_end: '2020-11-01'
-      description: |2-     
-          Project: Human-object Interaction (HOI)
-          * Formulated HOI detection as a set prediction problem as the primary researcher. The new formulation breaks the instance-centric and location limitations of the existing methods.
-          * Proposed a novel one-stage HOI framework with transformer to adaptively aggregate the most suitable features.
-          * Designed an instance-aware attention module to introduce the instance information into the interaction branch.
-          * Without introducing any extra features, our method achieves 31% relative improvement over the second-best one-stage method on the HICO-DET dataset especially.
-
-  - title: Research Intern
       company: Sensetime and University of Washington
       company_url: ''
       location: Seattle, WA
