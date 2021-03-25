@@ -58,6 +58,8 @@ experience:
         * Formulated HOI detection as a set prediction problem as the primary researcher. The new formulation breaks the instance-centric and location limitations of the existing methods.
         * Proposed a novel one-stage HOI framework with transformer to adaptively aggregate the most suitable features.
         * Designed an instance-aware attention module to introduce the instance information into the interaction branch.
+        * Without introducing any extra features, our method achieves 31% relative improvement over the second-best one-stage method on the HICO-DET dataset especially.  
+        
         Project: Online Multi-object Tracking (MOT), collabaration with University of Washington:
         * Addressed the challenges of the online multi-object tracking problem as the primary researcher.
         * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
