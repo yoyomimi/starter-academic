@@ -26,7 +26,7 @@ education:
   courses:
   - course: MS, Electronic Information and Communications
     institution: Huazhong University of Science and Technology
-    year: 2020~now
+    year: 2020 ~ now
   - course: BSc in Computer Science
     institution: Huazhong University of Science and Technology
     year: 2016 ~ 2020
