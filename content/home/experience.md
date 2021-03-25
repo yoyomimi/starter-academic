@@ -47,16 +47,4 @@ experience:
         * Used foreground/background segmentation and human detection to discover all the human bodies in the video.
         * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.   
 
-  - title: Research 
-      company: Sensetime and University of Washington
-      company_url: ''
-      location: Seattle, WA
-      date_start: '2020-11-01'
-      date_end: ''
-      description: |2-     
-          Project: Online Multi-object Tracking (MOT)
-          * Addressed the challenges of the online multi-object tracking problem as the primary researcher.
-          * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
-          * Designed a reliable track association module that predicted the motion and representative appearance embedding for each track, and then jointly performed the location and appearance matching based on them.
-          * The new method improves the association effectiveness and also keeps competitive detection accuracy, reaches SOTA performance on MOT17 as an online MOT tracker.
 ---
