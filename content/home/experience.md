@@ -48,13 +48,13 @@ experience:
         * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios. 
 
   - title: Research Intern
-    company: ByteDance
+    company: Sensetime
     company_url: ''
-    location: Shenzhen, China
-    date_start: '2019-09-01'
-    date_end: '2020-04-01'
+    location: Beijing, China
+    date_start: '2020-07-01'
+    date_end: ''
     description: |2-     
-        
+        Project: Human-object Interaction (HOI), Collabaration with Beihang University
         * Reconstructed the hand pose detection network with a lightweight backbone. Finetuned and validated the new model based on millions of real-life user data, ensuring the high run speed while maintaining the comparatively robust detection precision.
         * Used foreground/background segmentation and human detection to discover all the human bodies in the video.
         * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.
