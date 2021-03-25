@@ -63,4 +63,4 @@ highlight_name: false
 Mingfei Chen received his B.S. degree from the Huazhong University of Science and Technology of China in 2020. She is currently working on Computer Vision, espically in Online Multi-object Tracking (MOT), Human-object Interaction (HOI) and Cross-modal Video Retrieval (Vision Language).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "upload/mingfei.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
