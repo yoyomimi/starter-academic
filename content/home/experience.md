@@ -22,24 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: University at Buffalo-SUNY and Chinese University of Hong Kong, Shenzhen
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Shenzhen, China
+    date_start: '2019-07'
+    date_end: '2019-11'
     description: |2-
-        Responsibilities include:
+        Project: Cross-modal Video Retrieval (Vision Language):
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Addressed the natural language video retrieval efficiency and effectiveness problem as the primary researcher.
+        * Devised a temporal anchor-free structure that performed retrieval directly on each temporal location within the target region. Built a top-down pyramid structure to make use of diverse temporal receptive fields, and a dilated convolutional module to integrate vision-language features more comprehensively.
+        * The new method reduces retrieval time by a factor of 5 and outperforms previous work by 10% on retrieval accuracy.
         
-  - title: Professor
-    company: University X
+  - title: Research Intern
+    company: ByteDance
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shenzhen, China
+    date_start: '2019-09'
+    date_end: '2020-04'
+    description: |2-
+        Project: Cross-modal Video Retrieval (Vision Language):
+        
+        * Reconstructed the hand pose detection network with a lightweight backbone. Finetuned and validated the new model based on millions of real-life user data, ensuring the high run speed while maintaining the comparatively robust detection precision.
+        * Used foreground/background segmentation and human detection to discover all the human bodies in the video.
+        * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.   
 ---
