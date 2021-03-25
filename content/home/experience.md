@@ -48,7 +48,7 @@ experience:
         * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.   
 
   - title: Research Intern
-      company: Sensetime & Beihang University
+      company: Sensetime and Beihang University
       company_url: ''
       location: Beijing, China
       date_start: '2020-07-01'
@@ -62,7 +62,7 @@ experience:
 
 
   - title: Research Intern
-      company: Sensetime & University of Washington
+      company: Sensetime and University of Washington
       company_url: ''
       location: Seattle, WA
       date_start: '2020-11-01'
