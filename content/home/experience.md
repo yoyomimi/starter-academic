@@ -26,8 +26,8 @@ experience:
     company: University at Buffalo-SUNY and Chinese University of Hong Kong, Shenzhen
     company_url: ''
     location: Shenzhen, China
-    date_start: '2019-07'
-    date_end: '2019-11'
+    date_start: '2019-07-01'
+    date_end: '2019-11-01'
     description: |2-
         Project: Cross-modal Video Retrieval (Vision Language):
         
@@ -39,8 +39,8 @@ experience:
     company: ByteDance
     company_url: ''
     location: Shenzhen, China
-    date_start: '2019-09'
-    date_end: '2020-04'
+    date_start: '2019-09-01'
+    date_end: '2020-04-01'
     description: |2-
         Project: Cross-modal Video Retrieval (Vision Language):
         
