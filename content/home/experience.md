@@ -60,7 +60,6 @@ experience:
           * Designed an instance-aware attention module to introduce the instance information into the interaction branch.
           * Without introducing any extra features, our method achieves 31% relative improvement over the second-best one-stage method on the HICO-DET dataset especially.
 
-
   - title: Research Intern
       company: Sensetime and University of Washington
       company_url: ''
