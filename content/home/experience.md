@@ -54,10 +54,15 @@ experience:
     date_start: '2020-07-01'
     date_end: ''
     description: |2-     
-        Project: Human-object Interaction (HOI), Collabaration with Beihang University
-        * Reconstructed the hand pose detection network with a lightweight backbone. Finetuned and validated the new model based on millions of real-life user data, ensuring the high run speed while maintaining the comparatively robust detection precision.
-        * Used foreground/background segmentation and human detection to discover all the human bodies in the video.
-        * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.
+        Project: Human-object Interaction (HOI), collabaration with Beihang University:
+        * Formulated HOI detection as a set prediction problem as the primary researcher. The new formulation breaks the instance-centric and location limitations of the existing methods.
+        * Proposed a novel one-stage HOI framework with transformer to adaptively aggregate the most suitable features.
+        * Designed an instance-aware attention module to introduce the instance information into the interaction branch.
+        Project: Online Multi-object Tracking (MOT), collabaration with University of Washington:
+        * Addressed the challenges of the online multi-object tracking problem as the primary researcher.
+        * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
+        * Designed a reliable track association module that predicted the motion and representative appearance embedding for each track, and then jointly performed the location and appearance matching based on them.
+        * The new method improves the association effectiveness and also keeps competitive detection accuracy, reaches SOTA performance on MOT17 as an online MOT tracker.
 
 
 ---
