@@ -47,7 +47,7 @@ experience:
         * Used foreground/background segmentation and human detection to discover all the human bodies in the video.
         * Applied guided filter, detection to improve the segmentation performance, especially under distant multi-person scenarios.   
 
-  - title: Research Intern
+  - title: Research 
       company: Sensetime and University of Washington
       company_url: ''
       location: Seattle, WA
