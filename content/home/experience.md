@@ -62,9 +62,10 @@ experience:
         
         Project: Online Multi-object Tracking (MOT), collabaration with University of Washington:
         * Addressed the challenges of the online multi-object tracking problem as the primary researcher.
-        * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
-        * Designed a reliable track association module that predicted the motion and representative appearance embedding for each track, and then jointly performed the location and appearance matching based on them.
-        * The new method improves the association effectiveness and also keeps competitive detection accuracy, reaches SOTA performance on MOT17 as an online MOT tracker.
+
 
 
 ---
+        # * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
+        # * Designed a reliable track association module that predicted the motion and representative appearance embedding for each track, and then jointly performed the location and appearance matching based on them.
+        # * The new method improves the association effectiveness and also keeps competitive detection accuracy, reaches SOTA performance on MOT17 as an online MOT tracker.
