@@ -21,6 +21,9 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+        # * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
+        # * Designed a reliable track association module that predicted the motion and representative appearance embedding for each track, and then jointly performed the location and appearance matching based on them.
+        # * The new method improves the association effectiveness and also keeps competitive detection accuracy, reaches SOTA performance on MOT17 as an online MOT tracker.
 experience:
   - title: Research Assistant
     company: University at Buffalo-SUNY and Chinese University of Hong Kong, Shenzhen
@@ -64,8 +67,4 @@ experience:
         * Addressed the challenges of the online multi-object tracking problem as the primary researcher.
 
 
-
 ---
-        # * Proposed a novel online MOT framework that allowed the detection and association process to aggregate features according to their different requirements respectively.
-        # * Designed a reliable track association module that predicted the motion and representative appearance embedding for each track, and then jointly performed the location and appearance matching based on them.
-        # * The new method improves the association effectiveness and also keeps competitive detection accuracy, reaches SOTA performance on MOT17 as an online MOT tracker.
